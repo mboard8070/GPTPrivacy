@@ -1,0 +1,2 @@
+# GPTPrivacy
+The Unreal Engine Development Assistant now includes a comprehensive privacy policy. This enhancement emphasizes the protection of user data and confidentiality. The GPT, specializing in Blueprint, C++ programming, and Unreal Engine's Python API, reassures users that it does not retain personal information or conversation histories. It also makes clear that it can only process queries related to Unreal Engine and cannot access or store sensitive personal data. This update aims to bolster user trust and ensure a secure interaction environment.
